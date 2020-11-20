@@ -15,6 +15,7 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
+    <a href="https://github.com/BYU-CS-260-Winter-2020/lab-4-museum-of-ordinary-objects-chancekearl/blob/master/back-end/server.js">  GitHub</a>
   </div>
 </div>
 </template>
